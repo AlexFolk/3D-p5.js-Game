@@ -1,7 +1,7 @@
-let chara;
+//let chara;
 
 function preload() {
-  chara = loadModel("/fan.obj", true);
+//  chara = loadModel("/fan.obj", true);
 }
 
 
